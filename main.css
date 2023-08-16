@@ -20,6 +20,7 @@ body{
      border-radius: 30px;
      box-shadow: 5px 5px rgb(50, 45, 54);
      object-fit: cover;
+     font-family
 }
 
 #photo_sesh{
@@ -28,9 +29,8 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
-.container img{
-    width: 250px;
-    height: 200px;
+.container{
+    font-size: larger;
 }
 
 
