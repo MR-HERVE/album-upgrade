@@ -17,6 +17,7 @@ body{
      border-width: 10px;
      border-style: groove;
      border-radius: 30px;
+     box-shadow: 5px 5px rgb(41, 41, 41);
 }
 
 #photo_sesh{
@@ -25,9 +26,8 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
-#Album{
-    width: 500px;
-    
+.container img{
+    width: 50%;
 }
 
 
