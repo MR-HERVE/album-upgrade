@@ -14,4 +14,34 @@
 ## Setup
   This section will evaluate on how one can setup the page:
 
-   1. Open VS Code(can work in either of the three,*linux*,*windows* or *MacOS*)   
+   1. Open VS Code(can work in either of the three,*linux*,*windows* or *MacOS*)  
+
+   ```<!DOCTYPE html>
+    <html>
+       <head>
+          <title></title>
+       </head>
+       <body></body>
+    </html>
+   ```  
+
+  2. open a git repository in your github account.
+  3. commit your work with a commit message in the terminal of your VS Code.
+
+   ```
+   git commit -m "the commit message"
+   ```
+
+  4. copy the ssh origin from the repository
+
+   ```
+   git remote add origin 
+   ``` 
+
+  5. push to the repository
+
+  ```
+  git push -u origin master
+  ``` 
+
+  
