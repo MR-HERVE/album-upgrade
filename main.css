@@ -28,6 +28,9 @@ body{
 
 .container img{
     width: 50%;
+    height: 150px;
+    padding: 13px;
+    display: table-cell;
 }
 
 
