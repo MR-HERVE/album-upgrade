@@ -1,3 +1,10 @@
+body{
+    background-color: darkkhaki;
+}
+
+
+
+
 .source{
     color: chartreuse;
     font-style: italic;
@@ -5,10 +12,9 @@
 }
 
 #album_description{
-    color: aqua;
-    font-weight: 700;
-    font-family: monospace;
-    font-size: 25px;
+     width: 500px;
+     background-color: #d4d7f7;
+     margin-left: 500px;
 }
 
 #photo_sesh{
@@ -17,7 +23,3 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-.Album{
-    position: relative;
-    text-align: center;
-}
