@@ -8,10 +8,16 @@
     color: aqua;
     font-weight: 700;
     font-family: monospace;
+    font-size: 25px;
 }
 
 #photo_sesh{
     color: chocolate;
     font-weight: 700;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.Album{
+    position: relative;
+    text-align: center;
 }
