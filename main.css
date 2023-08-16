@@ -3,3 +3,15 @@
     font-style: italic;
     font-weight: 600;
 }
+
+#album_description{
+    color: aqua;
+    font-weight: 700;
+    font-family: monospace;
+}
+
+#photo_sesh{
+    color: chocolate;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
