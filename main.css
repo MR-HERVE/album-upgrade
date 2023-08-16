@@ -6,6 +6,7 @@ body{
     color: chartreuse;
     font-style: italic;
     font-weight: 600;
+    text-align: center;
 }
 
 #album_description{
@@ -22,7 +23,7 @@ body{
 }
 
 #photo_sesh{
-    color: chocolate;
+    color: aqua;
     font-weight: 700;
     font-family: 'Courier New', Courier, monospace;
 }
