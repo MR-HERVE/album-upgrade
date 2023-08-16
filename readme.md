@@ -44,4 +44,6 @@
   git push -u origin master
   ``` 
 
-  
+## Author
+  This project was built and maintained by:
+  . [Irakiza Herve](https://github.com/MR-HERVE)  
